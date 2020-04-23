@@ -1,0 +1,1960 @@
+{
+  "intents": [
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "Covid_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        },
+        {
+          "text": "how do i get rid of germs at my home"
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "Covid_Protecting_Against_Infection",
+      "examples": [
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "How do I prevent myself from getting sick?"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "How often should I wash my hands?"
+        }
+      ],
+      "description": "How to prevent infection."
+    },
+    {
+      "intent": "Covid_Description",
+      "examples": [
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        },
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        }
+      ],
+      "description": "Overview of Covid 19."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "Covid_School_Shutdown",
+      "examples": [
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        },
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "are schools open?"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "When will the schools open?"
+        }
+      ],
+      "description": "Information on local schools."
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "c ya"
+        },
+        {
+          "text": "see you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Covid_Testing_Locations",
+      "examples": [
+        {
+          "text": "Can I get tested at my doctors?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "Where can I get tested?"
+        },
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        }
+      ],
+      "description": "Where to get tested for Covid 19."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Covid_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        },
+        {
+          "text": "When will the NHL return?"
+        },
+        {
+          "text": "When will the NCAA championships be held?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        }
+      ],
+      "description": "Information on events and large groups."
+    },
+    {
+      "intent": "Covid_Testing_Results",
+      "examples": [
+        {
+          "text": "When can I get my results?"
+        },
+        {
+          "text": "My doctor hasn't given me my test results back yet."
+        },
+        {
+          "text": "Its been a week. Who can I call to get my test results?"
+        },
+        {
+          "text": "Who will give me my COVID test results?"
+        },
+        {
+          "text": "test outcomes?"
+        },
+        {
+          "text": "Do my test results come in the mail?"
+        },
+        {
+          "text": "How can I get my test results?"
+        }
+      ],
+      "description": "How to get Covid 19 test results."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "It is annoying"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "Hey"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "thank_you",
+      "examples": [
+        {
+          "text": "hello"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "cheers"
+        },
+        {
+          "text": "appreciate it"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "location_info",
+      "examples": [
+        {
+          "text": "list of your locations"
+        },
+        {
+          "text": "where is your Toronto store?"
+        },
+        {
+          "text": "do you have a flower shop in Montreal"
+        },
+        {
+          "text": "What's the address of your Toronto store?"
+        },
+        {
+          "text": "what's the address of your Vancouver store?"
+        },
+        {
+          "text": "locations in America"
+        },
+        {
+          "text": "Locations in Canada"
+        },
+        {
+          "text": "Give me a list of locations"
+        },
+        {
+          "text": "List of location"
+        },
+        {
+          "text": "What are your locations?"
+        },
+        {
+          "text": "Where are you physically located?"
+        },
+        {
+          "text": "Where are your stores?"
+        }
+      ]
+    },
+    {
+      "intent": "Covid_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        }
+      ],
+      "description": "Information on travel during Covid 19 pandemic."
+    },
+    {
+      "intent": "Covid_Symptoms",
+      "examples": [
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "should i get tested"
+        },
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "Do I need to get tested?"
+        },
+        {
+          "text": "How do i know if I'm sick"
+        },
+        {
+          "text": "I have travled recently. What do I do?"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think I'm infected"
+        }
+      ],
+      "description": "Symptoms related to Covid 19."
+    },
+    {
+      "intent": "hours_info",
+      "examples": [
+        {
+          "text": "What are your hours?"
+        },
+        {
+          "text": "what are the hours of operation for your Montreal store"
+        },
+        {
+          "text": "what are you hours of operation in Toronto"
+        },
+        {
+          "text": "Are you open on Sundays?"
+        },
+        {
+          "text": "What are your hours of operation?"
+        },
+        {
+          "text": "What time are you open until?"
+        },
+        {
+          "text": "Are you open on Saturdays?"
+        },
+        {
+          "text": "Are you open on Christmas' Day?"
+        },
+        {
+          "text": "When do you close"
+        },
+        {
+          "text": "What days are you closed on?"
+        },
+        {
+          "text": "When are you open"
+        },
+        {
+          "text": "When do you open"
+        },
+        {
+          "text": "What is the store hours"
+        }
+      ]
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Covid_Case_Count",
+      "examples": [
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "how many people are infected in the us?"
+        },
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        },
+        {
+          "text": "Where are cases?"
+        },
+        {
+          "text": "Are there any cases near me?"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "How many cases of the virus are there in the world?"
+        }
+      ],
+      "description": "Information on number of Covid 19 cases."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "occasion",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Retirement",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Christmas",
+          "synonyms": [
+            "December 25",
+            "Dec 25",
+            "December 25th",
+            "Yule"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Funeral",
+          "synonyms": [
+            "condolences",
+            "sorrow",
+            "grief",
+            "sympathy",
+            "wake",
+            "Shiva",
+            "celebration of life"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Graduation",
+          "synonyms": [
+            "graduating",
+            "grad",
+            "graduate",
+            "commencement"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wedding",
+          "synonyms": [
+            "best man",
+            "bride",
+            "groom",
+            "bridesmaid"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Congratulations",
+          "synonyms": [
+            "award",
+            "success"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mother's Day",
+          "synonyms": [
+            "Mothering Sunday",
+            "Mum's Day",
+            "Mom's Day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Birthday",
+          "synonyms": [
+            "b-day",
+            "bday",
+            "birth day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Valentine's Day",
+          "synonyms": [
+            "February 14",
+            "valentines",
+            "Feb 14",
+            "February 14th",
+            "heart day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Get Well",
+          "synonyms": [
+            "sickness",
+            "ill",
+            "disease",
+            "cancer",
+            "hospital"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Anniversary",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "relationship",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "partner",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "husband",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "boyfriend",
+          "synonyms": [
+            "beau"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mother",
+          "synonyms": [
+            "mama",
+            "momsie",
+            "mommy",
+            "mum",
+            "mom"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "father",
+          "synonyms": [
+            "pops",
+            "daddy",
+            "dad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "relative",
+          "synonyms": [
+            "step",
+            "cousin",
+            "aunt",
+            "uncle",
+            "granny",
+            "grannie",
+            "grandpa",
+            "grandma",
+            "brother",
+            "sister"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "friend",
+          "synonyms": [
+            "trainer",
+            "professor",
+            "companion",
+            "bestie",
+            "roommate",
+            "neighbor",
+            "teacher",
+            "coach",
+            "colleague",
+            "associate",
+            "acquaintance",
+            "BFF"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "couple",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "wife",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "girlfriend",
+          "synonyms": [
+            "fiancee",
+            "GF"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Calgary",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Toronto",
+          "synonyms": [
+            "Warden ",
+            "Avenue"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Vancouver",
+          "synonyms": [
+            "Burnaby"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Montreal",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "No Such Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our hours of operations are listed on <a href=\"https://example.org/hours/\">our Hours page</a>. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586062987838",
+      "conditions": "@syslocation",
+      "dialog_node": "node_7_1586062987849",
+      "previous_sibling": "node_2_1586062987849"
+    },
+    {
+      "type": "standard",
+      "title": "Our Location",
+      "output": {},
+      "parent": "node_1_1586062987838",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@location",
+      "dialog_node": "node_2_1586062987849"
+    },
+    {
+      "type": "standard",
+      "title": "No Such Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, we don’t have a store in @sys-location. To date, we have stores in Toronto, Montreal, Calgary, and Vancouver."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1586060826544",
+      "conditions": "@sys-location",
+      "dialog_node": "node_8_1586062206829",
+      "previous_sibling": "node_2_1586061315625"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1586060826544",
+      "dialog_node": "node_4_1587566042383",
+      "previous_sibling": "node_8_1586062206829"
+    },
+    {
+      "type": "standard",
+      "title": "Our Location",
+      "parent": "node_8_1586060826544",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "$city",
+      "dialog_node": "node_2_1586061315625"
+    },
+    {
+      "type": "standard",
+      "title": "Thank You",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome. Please let me know if you need anything else. "
+              },
+              {
+                "text": "My pleasure."
+              },
+              {
+                "text": "No problem. Let me know if there is anything else I can help with. "
+              },
+              {
+                "text": "I aim to please."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586025989869",
+      "conditions": "#thank_you",
+      "dialog_node": "node_1_1586026461033",
+      "previous_sibling": "node_2_1586026169620"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice talking to you today. We hope you visit our $city store. "
+              },
+              {
+                "text": "Have a nice day. "
+              },
+              {
+                "text": "Goodbye. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586025989869",
+      "conditions": "#goodbye",
+      "dialog_node": "node_4_1586026639052",
+      "previous_sibling": "node_1_1586026461033"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there. How can I help you? "
+              },
+              {
+                "text": "Hello. How may I assist you today? "
+              },
+              {
+                "text": "Hi. What can I help you with? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586025989869",
+      "conditions": "#greetings",
+      "dialog_node": "node_2_1586026169620"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Vancouver store is open Monday to Saturday from 9 am until 6 pm, except statutory holidays."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1586061315625",
+      "conditions": "$city:Vancouver",
+      "dialog_node": "response_2_1586061839930",
+      "previous_sibling": "response_9_1586061730163"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Calgary store is open Monday to Saturday from 9 am until 6 pm, except statutory holidays."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1586061315625",
+      "conditions": "$city:Calgary",
+      "dialog_node": "response_9_1586061730163",
+      "previous_sibling": "response_7_1586061688656"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Montreal store is open Monday to Saturday from 9 am until 6 pm, except statutory holidays."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1586061315625",
+      "conditions": "$city:Montreal",
+      "dialog_node": "response_7_1586061688656",
+      "previous_sibling": "response_9_1586061560794"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Monday to Saturday from 9 am until 6 pm, except statutory holidays."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1586061315625",
+      "conditions": "$city:Toronto",
+      "dialog_node": "response_9_1586061560794"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Montreal store is open Monday to Saturday from 9 am until 6 pm, except statutory holidays."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1586062987849",
+      "conditions": "@location:Montreal",
+      "dialog_node": "response_4_1586062987849",
+      "previous_sibling": "response_3_1586062987849"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Toronto store is located at 123 Warden Avenue"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1586062987849",
+      "conditions": "@location:Toronto",
+      "dialog_node": "response_3_1586062987849"
+    },
+    {
+      "type": "folder",
+      "title": "Chitchat",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1586025989869",
+      "previous_sibling": "node_1_1586062987838"
+    },
+    {
+      "type": "standard",
+      "title": " Hours of Operation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our hours of operations are listed on <a                                       href = \"https://www.kroger.com/\" >our Hours page</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#hours_info",
+      "dialog_node": "node_8_1586060826544",
+      "previous_sibling": "node_10_1586078293594"
+    },
+    {
+      "type": "standard",
+      "title": "#location_info",
+      "output": {
+        "generic": []
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#location_info",
+      "dialog_node": "node_1_1586062987838",
+      "previous_sibling": "node_8_1586060826544"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "It looks like we are not quite getting each other today. Would you like to talk to a human agent instead? If so, please contact us at 555-123-4567 or email us at support\\@example.org. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_1_1586025989869",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Assign City",
+      "output": {
+        "generic": []
+      },
+      "context": {
+        "city": "@location"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1586060826544"
+      },
+      "conditions": "@location",
+      "dialog_node": "node_10_1586078293594",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. My name is Florence and I'm a chatbot here to assist you with your questions about store hours, locations, as well as flower recommendations. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Flower shop skill",
+  "language": "en",
+  "description": ""
+}
